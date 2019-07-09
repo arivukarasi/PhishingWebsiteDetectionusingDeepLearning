@@ -1,4 +1,4 @@
-**DETECTION OF PHISHING WEBSITES USING DEEP LEARNING
+**DETECTION OF PHISHING WEBSITES USING DEEP LEARNING**
 
 - It can be solved pretty easily 
 - It can be solved by using deep neural networks
